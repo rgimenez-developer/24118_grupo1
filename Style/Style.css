@@ -1,0 +1,180 @@
+/* Estilos Body*/
+
+body {
+    background-color:#f3f8f7;;
+    text-decoration-color: aliceblue;
+
+}
+
+/* Estilos Ingreso */
+.Container-ingreso {
+    width: auto;
+    flex-wrap: wrap;
+    background-color: #444746;
+    display: flex;
+    justify-content: flex-end;
+    color: aliceblue;
+
+}
+
+
+.Home{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+}
+
+.Ingreso{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Registro{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Admin{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+
+
+/* Estilos  Card  
+    background-color:#444746;;*/
+
+
+.Container-Card {
+  
+  
+    display: flex;
+    justify-content:center;
+
+    margin: 150px;
+}
+
+.btn1{
+    
+    color: #3c4043;
+    
+   border-radius: 20px;
+   border: 1px solid #3c4043; 
+    background: border-box;
+    padding: 60px;
+    margin: 30px;
+  
+  
+}
+
+
+.btn2{
+    color: #3c4043;
+    border-radius: 20px;
+    border: 1px solid #3c4043;
+    background: border-box;
+    padding: 60px;
+    margin: 30px;
+
+
+
+  
+}
+
+
+.btn3{
+    color: #3c4043;
+    border-radius: 20px;
+    border: 1px solid #3c4043;
+    background: border-box;
+   
+    padding: 60px;
+    margin: 30px;
+ 
+
+
+  
+}
+
+
+.btn4{
+    color: #3c4043;
+    border-radius: 20px;
+    border: 1px solid #3c4043;
+    background: border-box;
+   
+    padding: 60px;
+    margin: 30px;
+    
+
+
+
+  
+}
+
+
+
+/*
+ box-shadow: 0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #bc13fe,
+    0 0 0.8rem #bc13fe,
+    0 0 2.8rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe; 
+
+    /*
+
+
+
+
+
+
+/* Efectos hover Header*/
+
+.Home:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Ingreso:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Registro:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Admin:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+/* Efectos hover Card*/
+
+.btn1:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.btn2:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.btn3:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.btn4:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}

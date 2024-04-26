@@ -1,0 +1,343 @@
+/* Estilos Body*/
+
+body {
+    background-color:#f3f8f7;;
+    text-decoration-color: aliceblue;
+
+}
+
+/* Estilos Ingreso */
+.Container-ingreso {
+    width: auto;
+    flex-wrap: wrap;
+    background-color: #444746;
+    display: flex;
+    justify-content: flex-end;
+    color: aliceblue;
+
+}
+
+
+.Home{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+}
+
+.Entrevistas{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Eventos{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Proveedores{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+.Estadisticas{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Cerrar-Sesion{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+
+
+
+/* Efectos hover Header*/
+
+.Home:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Entrevistas:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Eventos:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Proveedores:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Estadisticas:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+.Cerrar-Sesion:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+
+
+
+
+/* formulario*/
+
+.form {
+
+    margin: 60px;
+
+  
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    /* display: table; */
+    background-color: #ffffff;
+    /* width: 300px; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.button1 {
+    display: inline-block;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.button1:hover {
+    background-color: #45a049;
+}
+input[type="text"], input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+
+/* Contenedor - card*/
+
+.Container-Card{
+
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+
+}
+
+/* tarjeta */
+.card1{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.card2{
+    background-color: #ffffff;
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card3{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card4{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card5{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card6{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card7{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card8{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.card9{
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.button {
+    
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* hover Card-#*/
+.button:hover {
+    background-color: #45a049;
+}
+

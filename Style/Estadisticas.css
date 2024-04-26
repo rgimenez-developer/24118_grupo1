@@ -1,0 +1,92 @@
+* Estilos Body*/
+
+body {
+    background-color:#f3f8f7;;
+    text-decoration-color: aliceblue;
+
+}
+
+/* Estilos Ingreso */
+.Container-ingreso {
+    width: auto;
+    flex-wrap: wrap;
+    background-color: #444746;
+    display: flex;
+    justify-content: flex-end;
+    color: aliceblue;
+}
+
+
+.Home{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+}
+
+.Entrevistas{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Eventos{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Proveedores{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+.Estadisticas{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+.Cerrar-Sesion{
+    color:aliceblue ;
+    margin:15px;
+    padding: 10px;
+
+}
+
+
+
+
+/* Efectos hover Header*/
+
+.Home:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Entrevistas:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Eventos:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Proveedores:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.Estadisticas:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+.Cerrar-Sesion:hover {
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
